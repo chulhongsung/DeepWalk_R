@@ -1,5 +1,7 @@
 # DeepWalk_R
 
+
+
 Introduction
 ===========
 This is a repository for [DeepWalk](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf) tutorial with **R**. I used [Karate](https://rdrr.io/cran/igraphdata/man/karate.html) social network  dataset in igraphdata packages. I just followed [SkipGram code](https://blogs.rstudio.com/tensorflow/posts/2017-12-22-word-embeddings-with-keras/) and applied Karate dataset. 
