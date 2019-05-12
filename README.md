@@ -17,7 +17,6 @@ Requirement
 
 Result
 ===========
-Output is almost similar to plot in DeepWalk paper.
 
 Input : Karate Graph
 
